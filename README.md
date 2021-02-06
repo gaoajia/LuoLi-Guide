@@ -7,11 +7,11 @@
 
 ## About
 
-#### homepage
+#### [homepage](https://github.com/gaoajia/LuoLi-Guide)
 
 - This project is copied from [Life-in-NJU](https://github.com/idealclover/Life-in-NJU)
 
-#### wiki
+#### [wiki](https://github.com/gaoajia/LuoLi-Guide-Wiki)
 
 - The documentation for The Luoli Guide Project is based on The Amwiki architecture and relies on Nodejs-npm Markdown lightweight front-end open source library system.
 - The Luoli Guide Project does not use a database and stores documents as local files with The '.md 'extension.
