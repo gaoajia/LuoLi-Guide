@@ -4,18 +4,13 @@
         "items": [
             {
                 "name": "新生必看",
-                "link": "https://iluoli.ren/docs",
+                "link": "https://iluoli.ren/docs/?file=001-%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/01-%E6%96%B0%E7%94%9F%E5%BF%85%E8%AF%BB/1-%E5%89%8D%E8%A8%80",
                 "description": "看了这些基本不用到处问人了"
             },
             {
                 "name": "校园网专区",
-                "link": "https://iluoli.ren/docs",
-                "description": "初始账户学工号，初始密码身份证（全部）"
-            },
-            {
-                "name": "公众号目录",
-                "link": "https://iluoli.ren/docs",
-                "description": "哦我的上帝啊，你毕业都不一定关注全了"
+                "link": "https://iluoli.ren/docs/?file=001-%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/02-%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%93%E5%8C%BA/1-%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E",
+                "description": "校园网使用的正确姿势！！！"
             }
         ]
     },
@@ -24,53 +19,53 @@
         "items": [
             {
                 "name": "衣食住行",
-                "link": "https://iluoli.ren/docs",
-                "description": "杂七杂八的生活服务"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "医疗相关",
-                "link": "https://iluoli.ren/docs",
-                "description": "身体健康第一位~"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！~"
             },
             {
                 "name": "实用服务",
-                "link": "https://iluoli.ren/docs",
-                "description": "各种学生组织的实用服务"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "社团实践",
-                "link": "https://iluoli.ren/docs",
-                "description": "社团、志愿、就业、创业相关"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "宿舍相关",
-                "link": "https://iluoli.ren/docs",
-                "description": "联系宿管、调宿事宜"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "校园服务",
-                "link": "https://iluoli.ren/docs",
-                "description": "南大校历、各单位电话黄页"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "本科学工通讯录",
-                "link": "https://iluoli.ren/docs",
-                "description": "实在不行问问辅导员"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "学生服务",
-                "link": "https://iluoli.ren/docs",
-                "description": "奖学金、勤工俭学等常用网站"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "证件办理",
-                "link": "https://iluoli.ren/docs",
-                "description": "校园卡、学生证、研究生证等（补）办理"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             },
             {
                 "name": "户籍管理",
-                "link": "https://iluoli.ren/docs",
-                "description": "管理户口迁移等等事务"
+                "link": "",
+                "description": "小编加班赶搞中···马上上线！"
             }
         ]
     },
@@ -129,7 +124,7 @@
             },
             {
                 "name": "智慧校园门户",
-                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
+                "link": "https://sec.lit.edu.cn/webvpn/LjIwNi4xNzAuMjE4LjE2Mi4xNjg=/LjIxMS4xNzUuMTQ4LjE1OC4xNTguMTcwLjk0LjE1Mi4xNTAuMjE2LjEwMi4xOTcuMjA5/pc/lit/index.html",
                 "description": "咱洛理的办事大厅"
             },
             {
