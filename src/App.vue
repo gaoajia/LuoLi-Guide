@@ -128,16 +128,16 @@
         style="background-color: rgba(0,0,0,.2);"
         cols="12"
       >
-        Copyright By
+        Copyright © 2021 By
         <a href="https://ajia.ltd" class="white--text" target="_blank"
           >AjiaErin &emsp;</a
         >
-        Powered By
+        All Rights Reserved.
         <a
-          href="https://github.com/idealclover/Life-in-NJU "
+          href="https://beian.miit.gov.cn/ "
           class="white--text"
           target="_blank"
-          >idealclover</a
+          >青ICP备20000145号-3</a
         >
       </v-col>
       <v-snackbar v-model="snackbar">
