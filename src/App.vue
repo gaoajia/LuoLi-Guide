@@ -128,16 +128,16 @@
         style="background-color: rgba(0,0,0,.2);"
         cols="12"
       >
-        Copyright © 2021 By
+        Copyright By
         <a href="https://ajia.ltd" class="white--text" target="_blank"
           >AjiaErin &emsp;</a
         >
-        All Rights Reserved.
+        Powered By
         <a
-          href="https://beian.miit.gov.cn/ "
+          href="https://github.com/idealclover/Life-in-NJU "
           class="white--text"
           target="_blank"
-          >青ICP备20000145号-3</a
+          >idealclover</a
         >
       </v-col>
       <v-snackbar v-model="snackbar">
@@ -158,9 +158,9 @@ import createPersiste from "vue-savedata";
 import NativeShare from "nativeshare";
 import Clipboard from "clipboard";
 
-const dataUrl = "https://image.gaoajia.com/lit-ajia-ltd/";
+const dataUrl = "https://image.gaoajia.com/wiki/iluoli/home/";
 const imgUrl =
-  dataUrl + "background/bg" + Math.floor(Math.random() * 5) + ".jpg";
+  dataUrl + "background/bg" + Math.floor(Math.random() * 4) + ".jpg";
 
 new Clipboard(".shareLink");
 Vue.use(Vuex);

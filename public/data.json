@@ -1,27 +1,17 @@
 [
     {
-        "title": "萌新必读",
+        "title": "洛理校园",
         "items": [
             {
                 "name": "新生必看",
-                "link": "https://iluoli.ren/docs/?file=001-%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/01-%E6%96%B0%E7%94%9F%E5%BF%85%E8%AF%BB/1-%E5%89%8D%E8%A8%80",
+                "link": "https://wiki.iluoli.ren/",
                 "description": "看了这些基本不用到处问人了"
             },
             {
                 "name": "校园网专区",
-                "link": "https://iluoli.ren/docs/?file=001-%E8%90%8C%E6%96%B0%E5%BF%85%E8%AF%BB/02-%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%B8%93%E5%8C%BA/1-%E6%A0%A1%E5%9B%AD%E7%BD%91%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E",
+                "link": "https://wiki.iluoli.ren/",
                 "description": "校园网使用的正确姿势！！！"
             },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
-            }
-        ]
-    },
-    {
-        "title": "洛理校园",
-        "items": [
             {
                 "name": "衣食住行",
                 "link": "",
@@ -71,11 +61,6 @@
                 "name": "户籍管理",
                 "link": "",
                 "description": "小编加班赶搞中···马上上线！"
-            },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
             }
         ]
     },
@@ -111,11 +96,6 @@
                 "name": "教学质量管理平台",
                 "link": "https://jpv2-2.mycospxk.com/wx/ver2.23.1.1/index.html?v=2.23.1.1#/user/login",
                 "description": "评教工作，微信打开更方便哦"
-            },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
             }
         ]
     },
@@ -139,33 +119,23 @@
             },
             {
                 "name": "智慧校园门户",
-                "link": "https://sec.lit.edu.cn/webvpn/LjIwNi4xNzAuMjE4LjE2Mi4xNjg=/LjIxMS4xNzUuMTQ4LjE1OC4xNTguMTcwLjk0LjE1Mi4xNTAuMjE2LjEwMi4xOTcuMjA5/pc/lit/index.html",
+                "link": "https://itsc.nju.edu.cn/zbrj/list.htm",
                 "description": "咱洛理的办事大厅"
             },
             {
                 "name": "邮箱别名",
                 "link": "https://mail.lit.edu.cn/",
                 "description": "学生邮箱一堆数字看起来一点也不时髦？试试这个"
-            },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
             }
         ]
     },
     {
-        "title": "在线工具",
+        "title": "优秀项目",
         "items": [
             {
-                "name": "新媒体工具",
-                "link": "https://www.gaoajia.com",
-                "description": "新媒体人的百宝箱"
-            },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
+                "name": "洛理学子的专属项目（欢迎来投稿）",
+                "link": "https://wiki.iluoli.ren/message.html",
+                "description": "点击留言即可"
             }
         ]
     },
@@ -174,18 +144,13 @@
         "items": [
             {
                 "name": "讨论群",
-                "link": "https://qm.qq.com/cgi-bin/qm/qr?k=BZRyVVKY9n7b4miSFLXJdX6VwPIUSd-s&jump_from=webapi",
+                "link": "https://qm.qq.com/cgi-bin/qm/qr?k=xGOP8Ch_bY7Z12-eGre4ZeK-_TOYwuAS&jump_from=webapi",
                 "description": "加入讨论群提出意见建议！"
             },
             {
                 "name": "投稿与建议",
                 "link": "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=_J_Zl5mSkZm4iYnWm5eV",
                 "description": "背景投稿与功能建议"
-            },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
             }
         ]
     },
@@ -202,11 +167,6 @@
                 "name": "来赞助我",
                 "link": "https://www.gaoajia.com/zanzhu.html",
                 "description": "来请我吃棒棒糖！"
-            },
-            {
-                "name": "加入编辑组",
-                "link": "http://wpa.qq.com/msgrd?v=3&uin=2949970175&site=qq&menu=yes",
-                "description": "联系阿加Erin，咨询详情！！！"
             }
         ]
     }
